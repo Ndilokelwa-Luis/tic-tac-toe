@@ -1,2 +1,2 @@
 # tic-tac-toe
-A tic tac toe game
+A tic tac toe game in JAVA.
